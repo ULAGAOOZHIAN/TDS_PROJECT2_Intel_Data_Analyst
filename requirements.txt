@@ -1,0 +1,34 @@
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+
+# Google Gemini client (pick ONE of these — prefer the new package)
+google-genai
+# google-generativeai
+
+# Data wrangling & math
+pandas
+numpy
+
+# HTTP + HTML parsing
+requests
+beautifulsoup4
+lxml
+
+# Files / tables
+openpyxl            # Excel reading
+duckdb>=1.1.3       # Remote query + CSV/Parquet pushdown
+
+# Plots -> WebP (matplotlib uses Pillow for WebP)
+matplotlib
+pillow
+
+# PDFs (your codegen allows pdfplumber as primary PDF extractor)
+pdfplumber
+
+# Helpful for fuzzy header matching in scraping
+rapidfuzz
+
+PyMuPDF
+networkx
