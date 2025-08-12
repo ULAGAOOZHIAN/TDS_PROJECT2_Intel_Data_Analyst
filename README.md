@@ -1,0 +1,2 @@
+# TDS_PROJECT2_Intel_Data_Analyst
+Ulaga's TDS_PROJECT2_Intelligent Data Analyst
